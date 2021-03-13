@@ -1,6 +1,6 @@
 {
-    "name": "T241Diff",
-    "longName": "T24 with 1 reviever (2 Serial)",
+    "name": "T245Diff",
+    "longName": "T24 with 5 revievers (2 Serial)",
     "numSerial": 2,
     "outputs": [
         {  "pin": "P8-31" },
@@ -33,7 +33,28 @@
         {  "pin": "P8-13" },
         {  "pin": "P8-17" },
         {  "pin": "P8-19" },
-        {  "pin": "P8-27" }
+        {  "pin": "P8-27" },
+
+        {  "pin": "P8-29" },
+        {  "pin": "P9-14" },
+        {  "pin": "P9-13" },
+        {  "pin": "P9-11" },
+
+        {  "pin": "P9-17" },
+        {  "pin": "P9-18" },
+        {  "pin": "P9-22" },
+        {  "pin": "P9-21" },
+
+        {  "pin": "P9-15" },
+        {  "pin": "P9-23" },
+        {  "pin": "P9-26" },
+        {  "pin": "P9-24" },
+
+        {  "pin": "P9-25" },
+        {  "pin": "P9-27" },
+        {  "pin": "P9-29" },
+        {  "pin": "P9-28" }
+
     ],
     "groups": [
         {
@@ -50,6 +71,26 @@
         },
         {
             "start": 25,
+            "count": 4,
+            "type": "differential"
+        },
+        {
+            "start": 29,
+            "count": 4,
+            "type": "differential"
+        },
+        {
+            "start": 33,
+            "count": 4,
+            "type": "differential"
+        },
+        {
+            "start": 37,
+            "count": 4,
+            "type": "differential"
+        },
+        {
+            "start": 41,
             "count": 4,
             "type": "differential"
         }
