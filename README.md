@@ -1,6 +1,6 @@
 # FPP-JSON-Files
 
-This is to install the JSON files required for the Mirage V1.0 BBB/BBG capes up to V0.6 to FPP.
+This is to install the JSON files required for the Mirage V1.0 BBB/BBG to work on FPP.
 
 Open FPP in a web browser as normal. Go to Help > SSH Shell. You may need to enable "Advanced Mode" in the FPP UI settings to see this command.
 
