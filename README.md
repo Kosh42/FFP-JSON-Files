@@ -6,7 +6,9 @@ Open FPP in a web browser as normal. Go to Help > SSH Shell. You may need to ena
 
 Log in to the shell with the user "fpp" and the password "falcon".
 
-Copy and paste this command, followed by enter:
-bash -c "$wget -qLO - http://raw.githubusercontent.com/Kosh42/FPP-JSON-Files/main/install.sh"
+Copy and paste these commands, followed by enter after each one:<br>
+wget http://raw.githubusercontent.com/Kosh42/FPP-JSON-Files/main/install.sh<br>
+chmod +x ./install.sh<br>
+./install.sh
 
 The should be it, the T24 board should be selectable in Channel Outputs > BBB Strings!

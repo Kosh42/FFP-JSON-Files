@@ -1,6 +1,6 @@
 {
-    "name": "Mirage1",
-    "longName": "Mirage 1.0 (2 Serial)",
+    "name": "Mirage",
+    "longName": "Mirage (2 Serial)",
     "numSerial": 2,
     "outputs": [
         {  "pin": "P8-31" },
